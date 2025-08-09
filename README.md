@@ -1,10 +1,11 @@
-<h3 align="center">babyadolf</h3>
+<p align="center">
+  <a href="https://github.com/babyadolf"><img src="https://img.shields.io/github/followers/babyadolf?style=for-the-badge"></img></a>
+  <a href="https://github.com/babyadolf"><img src="https://img.shields.io/github/stars/babyadolf?style=for-the-badge"></img></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vvnyl&label=Profile%20views&color=a7c5d7&style=flat" alt="babyadolf" /> </p>
+<p align="center">
+  <a href="https://github.com/babyadolf"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+  <a href="https://github.com/babyadolf"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+</p>
 
-<h3 align="left">what i do</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babyadolf&show_icons=true&theme=dark&locale=en&layout=compact" alt="babyadolf" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babyadolf&show_icons=true&theme=dark&locale=en" alt="babyadolf" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@:babyadolf" alt=":babyadolf" /></p>
