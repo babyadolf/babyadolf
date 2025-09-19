@@ -8,3 +8,5 @@ I'm Adrian, 16
 
 ---
 [![](https://visitcount.itsvg.in/api?id=babyadolf&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Please do not be a skid and don't copy this shit like generate your own from that uh github about me generator for fuck sake -->
